@@ -1,0 +1,1 @@
+This is the primitive version of the code, which has been iterated upon to improve and scale the distributed architecture. It's an incomplete code that was simply the first step in creating this architecture.
